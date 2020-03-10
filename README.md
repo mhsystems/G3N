@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to MultiFlex G3N Public Repositiry
 
-You can use the [editor on GitHub](https://github.com/mhsystems/G3N/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is set up as a primary point for sharing published information with our merchants and channel partners. We strive to be as transparent as possible during our continuous development, enhancement, operations and support processes, ensuring highest level of quality and 100% satisfaction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository provides access to our:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhsystems/G3N/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Wiki](https://github.com/mhsystems/G3N/wiki) where we provide extensive documentation on various topics related to our G3N offering, including feature lists, plans, documentation, training material and API (public external API for channel partners) documentation, use cases and examples.
+- [Issues database](https://github.com/mhsystems/G3N/issues), where we engage with our merchants and channel partners to resolve issues, report on defects; generally a mechanism for holding two way (and transparent) correspondence on individual issues.
