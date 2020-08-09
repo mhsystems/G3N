@@ -1,6 +1,6 @@
 ## Welcome to MultiFlex G3N Public Repositiry
 
-This repository is set up as a primary point for sharing published information with our merchants and channel partners. We strive to be as transparent as possible during our continuous development, enhancement, operations and support processes, ensuring highest level of quality and 100% satisfaction.
+This repository is set up as a primary point for sharing information with select merchants and channel partners. We strive to be as transparent as possible during our continuous development, enhancement, operations and support processes, ensuring highest level of quality and 100% satisfaction.
 
 This repository provides access to our:
 
